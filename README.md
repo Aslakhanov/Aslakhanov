@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+ 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -19,7 +19,7 @@
 <li>𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</li>
 <li>𝘙𝘦𝘢𝘤𝘵 𝘙𝘦𝘥𝘶𝘹</li>
 <li>𝘙𝘦𝘢𝘤𝘵 𝘳𝘰𝘶𝘵𝘦𝘳 𝘥𝘰𝘮 𝘷6</li>
-<li>𝘞𝘦𝘣𝘱𝘢𝘤𝘬</li>
+ 
 <li>𝘙𝘦𝘥𝘶𝘹-𝘵𝘰𝘰𝘭𝘬𝘪𝘵</li>
 <li>𝘗𝘰𝘴𝘵𝘮𝘢𝘯</li>
 <li>𝘔𝘰𝘯𝘨𝘰𝘋𝘉</li>
@@ -31,5 +31,5 @@
   
   
 <h2>𝘔𝘺 𝘤𝘰𝘯𝘵𝘢𝘤𝘵𝘴<h2>
- <a href="https://t.me/MDR1996"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <a href="https://t.me/Said_95_a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
